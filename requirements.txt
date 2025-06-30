@@ -7,3 +7,7 @@ darkdetect==0.8.0
 idna==3.10
 packaging==24.1
 urllib3==2.2.3
+python-can==4.5.0
+cantools==40.2.3
+
+
